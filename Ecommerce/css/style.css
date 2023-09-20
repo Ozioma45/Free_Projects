@@ -55,7 +55,7 @@
 
 
 .main{
-    background: url(../asset/bg1.jpg);
+    background: linear-gradient(rgba(0,0,0,0.5),rgba(0, 0, 0, 0.5)), url(../asset/bg1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: 50% 50%;
@@ -65,7 +65,7 @@
 }
 
 .h1-main{
-    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.288);
+    text-shadow: 2px 2px 3px rgba(0, 0, 0, 0.678);
     font-size: 4rem;
 }
 
