@@ -1,4 +1,13 @@
+@font-face {
+    font-family: 'Poppins';
+    src: url('./Poppins-Black.otf') format('otf'),
+      url('./Poppins-Bold.otf') format('otf');
+    font-weight: 600;
+    font-style: normal;
+  }
+
 .hello {
     color: red;
+    font-family: 'Poppins';
     background: url('./icon.png');
   }
